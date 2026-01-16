@@ -1,1 +1,1 @@
-https://github.com/dimonkayaking/mesto-ad
+https://github.com/dimonkayaking/mesto-production
