@@ -1,1 +1,1 @@
-https://github.com/dimonkayaking/mesto-ad
+# *Вариант №3*
